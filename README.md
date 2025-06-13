@@ -1,14 +1,14 @@
 <h1 align="center">Welcome, I'm Payton Zuniga </h1>
 
 <p align="center">
-  <strong>Mobile Developer · Web3 Enthusiast · Investor</strong>
+  <strong>Mobile Developer · Web3 Enthusiast · Investor . DeFi Enthusiast</strong>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I'm a mobile developer focused on creating seamless cross-platform apps using **React Native** and **TypeScript**. My work bridges mobile experiences with **decentralized technologies**, where I build and invest in the future of Web3. I’m passionate about clean code, great UX, and impactful blockchain solutions.
+I'm a mobile developer focused on creating seamless cross-platform apps using **React Native** and **TypeScript**. My work bridges mobile experiences with **decentralized technologies**, where I build and invest in the future of Web3. I’m passionate about clean code, great UX, and impactful blockchain solutions.📊 I actively explore tokenomics, DeFi protocols, and market trends to make informed investment decisions in Web3 projects.
 
 ---
 
